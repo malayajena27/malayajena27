@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malayajena27
+<h1 display="inline-block" align="center">Hi 👋, I'm Malaya</h1> 
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently  persuing my BTECH in CSE at GIET UNIVERSITY,GUNUPUR..
 - 💞️ I’m B-TECH in the domain of CSE AI&ML(Artificial Intelligence & Machine Learning)
